@@ -3,4 +3,4 @@ A predictive model capable of determining overall network capacity to handle inc
 
 # README
 
-These are projects for CS188 Introduction to Data Science. It is for back-up only. 
+These are projects for CS188 Introduction to Data Science. It is for back-up only. Assignment 3 is collaberated with Lian, Zhao, and Shi.
